@@ -1,2 +1,2 @@
 # Bootstrap-Portfolio
-Recreate the Bootstrap Portfolio using the components on the Bootsrap site. follows best practices for file structure and naming conventions.And commit often.
+Recreate the Bootstrap Portfolio using the Bootstrap components from the Bootsrap site. Follow best practices for file structure and naming conventions, and commit often.
